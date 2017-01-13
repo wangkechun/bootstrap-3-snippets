@@ -51,8 +51,12 @@
  				"language": "tpl",
  				"path": "./snippets/snippets.json"
  			},
-      		{
- 				"language": "ts",
+      			{
+ 				"language": "typescript",
+ 				"path": "./snippets/snippets.json"
+ 			},
+			{
+ 				"language": "typescriptreact",
  				"path": "./snippets/snippets.json"
  			},
 			{
